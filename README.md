@@ -1,5 +1,5 @@
 # SocketIO
-#NOTE >>>>>>>>>>>>>>>>>>>>>>>> Run both client and server in full screen then you will be able to see counter also.
+#NOTE >>>>>>>>>>>>>>>>>>>>>>>> Run both server and client in full screen then you will be able to see counter also.
 
 >>>>>>Steps  
 
